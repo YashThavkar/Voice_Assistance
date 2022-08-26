@@ -1,2 +1,3 @@
-# Voice_Assistance
-Just by giving command by your voice he will complete your regular tasks.
+# Hey I am Mark [Voice_Assistance] 
+I will try to deal with your tasks , just by commanding with your voice.. 
+
